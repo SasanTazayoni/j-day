@@ -14,6 +14,8 @@ Judgement Day
 
 This project is deployed and can be accessed at [https://stephendawsondev.github.io/j-day/](https://stephendawsondev.github.io/j-day/).
 
+![Bronze badge](assets/images/readme_images/bronze.png)
+
 ## Criteria
 
 In this section, we will briefly discuss how our team addressed the applicable criteria:
