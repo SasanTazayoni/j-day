@@ -10,7 +10,7 @@ Judgement Day
 
 ## Deployment
 
-![HTML](tech/html.png) ![CSS](tech/css.png) ![Javascript](tech/javascript.png)
+![HTML](tech/html.png) ![CSS](tech/css.png) ![Javascript](tech/javascript.png) ![Gitpod](tech/gitpod.png) ![Git](tech/git.png)
 
 This project is deployed and can be accessed at [https://stephendawsondev.github.io/j-day/](https://stephendawsondev.github.io/j-day/).
 
